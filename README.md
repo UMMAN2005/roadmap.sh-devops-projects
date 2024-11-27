@@ -6,6 +6,8 @@
 
 [nginx-log-analyzer](https://roadmap.sh/projects/nginx-log-analyser)
 
+[gh-deployment-workflow](https://roadmap.sh/projects/github-actions-deployment-workflow)
+
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
