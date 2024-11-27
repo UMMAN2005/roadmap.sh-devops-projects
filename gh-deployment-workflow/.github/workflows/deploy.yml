@@ -3,7 +3,7 @@ name: Deploy to GitHub Pages
 on:
   push:
     paths:
-      - "index.html"
+      - "gh-deployment-workflow/index.html"
     branches:
       - main
 
@@ -15,8 +15,8 @@ jobs:
       - name: Checkout the repository
         uses: actions/checkout@v3
 
-      - name: Setup GitHub Pages
+      - name: Deploy index.html to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: .
+          publish_dir: gh-deployment-workflow
