@@ -1,6 +1,6 @@
-# Server Performance Stats
+# Log Archive Tool
 
-A simple script to monitor server performance metrics.
+A simple script to archive the log directory
 
 ## Getting Started
 
@@ -17,13 +17,13 @@ Follow these steps to set up and run the script:
 
    ```bash
    git clone https://github.com/UMMAN2005/roadmap.sh-devops-projects
-   cd roadmap.sh-devops-projects/server-performance-stats
+   cd roadmap.sh-devops-projects/log-archive-tool
    ```
 
 2. Make the script executable:
 
    ```bash
-   chmod +x server-stats.sh
+   chmod +x log-archive.sh
    ```
 
 ### Usage
@@ -31,9 +31,9 @@ Follow these steps to set up and run the script:
 Run the script with:
 
 ```bash
-bash server-stats.sh
+bash log-archive.sh <log-directory>
 ```
 
 ## Details
 
-For more information about the script and its features, visit the [project page](https://roadmap.sh/projects/server-stats).
+For more information about the script and its features, visit the [project page](https://roadmap.sh/projects/log-archive-tool).
