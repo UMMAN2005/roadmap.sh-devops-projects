@@ -22,9 +22,9 @@ Follow these steps to set up and run the script:
 
 2. Make the script executable:
 
-```bash
- chmod +x server-stats.sh
-```
+   ```bash
+   chmod +x server-stats.sh
+   ```
 
 ### Usage
 
@@ -33,6 +33,10 @@ Run the script with:
 ```bash
 bash server-stats.sh
 ```
+
+## Details
+
+For more information about the script and its features, visit the [project page](https://roadmap.sh/projects/server-stats).
 
 ## License
 
