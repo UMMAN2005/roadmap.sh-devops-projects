@@ -1,6 +1,6 @@
 #!/bin/bash
 
-LOCAL_DIR=""
+LOCAL_DIR="static-site/"
 REMOTE_USER=""
 REMOTE_IP=""
 REMOTE_DIR=""
