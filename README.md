@@ -12,6 +12,8 @@
 
 [static-site-server](https://roadmap.sh/projects/static-site-server)
 
+[basic-dns-setup](https://roadmap.sh/projects/basic-dns)
+
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
