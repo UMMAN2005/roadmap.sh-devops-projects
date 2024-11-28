@@ -102,3 +102,7 @@ bantime = 600
    ```bash
    sudo fail2ban-client status sshd
    ```
+
+## Details
+
+For more information about the script and its features, visit the [project page](https://roadmap.sh/projects/ssh-remote-server-setup).

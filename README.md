@@ -10,6 +10,8 @@
 
 [ssh-remote-server-setup](https://roadmap.sh/projects/ssh-remote-server-setup)
 
+[static-site-server](https://roadmap.sh/projects/static-site-server)
+
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
