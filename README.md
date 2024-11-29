@@ -16,6 +16,8 @@
 
 [simple-monitoring](https://roadmap.sh/projects/simple-monitoring-dashboard)
 
+[dummy-systemd-service](https://roadmap.sh/projects/dummy-systemd-service)
+
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.

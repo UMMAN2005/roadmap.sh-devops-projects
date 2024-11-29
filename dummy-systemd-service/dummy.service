@@ -1,0 +1,10 @@
+[Unit]
+Description=Dummy while loop
+After=syslog.target systemd-user-sessions.service
+
+[Service]
+ExecStart=bash /opt/roadmap_projects/dummy.sh
+KillMode=process
+
+[Install]
+WantedBy=multi-user.target
