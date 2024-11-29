@@ -14,6 +14,8 @@
 
 [basic-dns-setup](https://roadmap.sh/projects/basic-dns)
 
+[simple-monitoring](https://roadmap.sh/projects/simple-monitoring-dashboard)
+
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
